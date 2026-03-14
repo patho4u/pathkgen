@@ -85,7 +85,7 @@ Similarly, update `paths_config.py` for any Python scripts that require it.
 
 > **Data will be available soon.**
 
-Once released, download the data directory from [here](#) and place it under `PathKGen/data/` as shown:
+Once released, download the data directory from [here](https://huggingface.co/datasets/deepshark43/wsi_bench_pathkgen) and place it under `PathKGen/data/` as shown:
 
 ```
 data/
@@ -109,7 +109,7 @@ You can proceed directly to [Training](#6-training) using the downloaded data.
 
 > **Model weights will be available soon.**
 
-Once released, download the model weights from [here](#) and place them under `PathKGen/checkpoints/` as shown:
+Once released, download the model weights from [here](https://huggingface.co/deepshark43/pathkgen) and place them under `PathKGen/checkpoints/` as shown:
 
 ```
 checkpoints/
